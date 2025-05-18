@@ -70,7 +70,6 @@
 ---------------------------------------------------------------------------
 ## 🔹 Procesos del sistema: (estado al momento de la entrega)
 
-
 | Proceso                          | Estado          |
 |----------------------------------|-----------------|
 | Registro de socios               | 🟡 En desarrollo |
@@ -95,7 +94,7 @@
 ---------------------------------------------------------------------------
 ## 🔹 Prioridad y orden de los procesos en la construcción del sistema
 
-⚠ ***Estos procesos se irán desarrollando a lo largo del trabajo del sistema, también se agregarán según los nuevos requerimientos.***
+⚠ ***Estos procesos se irán desarrollando a lo largo del trabajo del sistema, también se agregaran según futuros requerimientos.***
 
 | Proceso                                  | Prioridad | Motivo de la prioridad                                  |
 |------------------------------------------|-----------|---------------------------------------------------------|
